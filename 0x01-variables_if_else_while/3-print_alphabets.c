@@ -21,5 +21,6 @@ int main(void)
 		Upper++;
 	}
 	putchar('\n');
+
 	return (0);
 }
