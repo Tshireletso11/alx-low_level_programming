@@ -15,5 +15,6 @@ int main(void)
 		alphabets--;
 	}
 		putchar('\n');
+
 		return (0);
 }
