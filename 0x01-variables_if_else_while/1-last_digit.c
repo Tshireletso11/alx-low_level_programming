@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - shows random number and giving info if is greater or 0 or less than.
+ * main - shows random numer and print information
  *
  * Return: Always O (uccess) 
  *
