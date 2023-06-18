@@ -2,9 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - shows random numer and print information
+ * main - shows random number and print information
  *
- * Return: Always O (uccess) 
+ * Return: always (O)
  *
  */
 int main(void)
