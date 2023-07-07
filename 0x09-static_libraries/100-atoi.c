@@ -1,5 +1,3 @@
-100-atoi.c
-
 #include "main.h"
 
 /**
@@ -29,4 +27,3 @@ int _atoi(char *s)
 	res *= sign;
 	return (res);
 }
-
